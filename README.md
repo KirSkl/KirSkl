@@ -2,7 +2,7 @@
 ----  
 Меня зовут Кирилл, работаю психиатром, психотерапевтом, психологом и преподавателем, а в перерывах изучаю Java :)  
 Ознакомившись с Java Core, SQL, Spring Framework/Spring Boot, JUnit, Mockito, JPA, REST API и другими технологиями сейчас ставлю своей целью сделать _знакомство_ более глубоким и осмысленным. Также стараюсь овладеть минимальной базой по Computer Science.
-Основной проект сейчас - [телеграм бот](/VseSvoiSearchBot)
+Основной проект сейчас - [телеграм бот](https://github.com/KirSkl/VseSvoiSearchBot)
 Ах да, конечно, моей главной целью является стать профессиональным разработчиком, поэтому я буду рад рассмотреть любые предложения о работе :)
 <!--
 **KirSkl/KirSkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
