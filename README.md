@@ -3,7 +3,7 @@
 Меня зовут Кирилл, программирую на Java :)  
 Ознакомившись с Java Core, SQL, Spring Framework (Boot, MVC, Data), JUnit, Mockito, JPA, REST API и другими технологиями сейчас стараюсь изучить их подробнее и глубже. Также уделяю внимание алгоритмам. 
 Основной проект сейчас - [телеграм бот](https://github.com/KirSkl/VseSvoiSearchBot)  
-Основной целью является стать профессиональным разработчиком, всегда готов рассмотреть варианты!
+Главной целью является стать профессиональным разработчиком, так что всегда готов рассмотреть варианты работы!
 Доступен в телеграме Skladanov_K
 <!--
 **KirSkl/KirSkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
